@@ -493,6 +493,33 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "PhilippVujic",
+      "name": "Philipp Vujic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28774924?v=4",
+      "profile": "https://github.com/PhilippVujic",
+      "contributions": [
+        "test"
+      ]
+    },
+    {
+      "login": "romach",
+      "name": "Roman Cherepanov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2506484?v=4",
+      "profile": "https://github.com/romach",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ambujsahu81",
+      "name": "Ambuj sahu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118078892?v=4",
+      "profile": "https://github.com/ambujsahu81",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
